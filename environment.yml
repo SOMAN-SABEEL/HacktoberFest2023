@@ -1,0 +1,11 @@
+name: HacktoberFest2023
+channels:
+  - defaults
+dependencies:
+  - python=3.8  # Replace with your desired Python version.
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - other_dependency  # Add any other project-specific dependencies here.
