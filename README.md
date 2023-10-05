@@ -1,4 +1,4 @@
-# HacktoberFest2k23
+# HacktoberFest2023
 
 
 # 🎉 Hacktoberfest 2023 Repository ![hacktoberfest-logo](https://github.com/hritik-6918/HacktoberFest2023--/assets/83581212/00c7d965-4c41-4e6b-9694-79a2b7961eed)
