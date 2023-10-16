@@ -1,0 +1,732 @@
+,Job Title,Company Name,Location,avg_salary
+0,Data Scientist,Others,"Albuquerque, NM",72.0
+1,Healthcare Data Scientist,Others,Others,87.5
+2,Data Scientist,KnowBe4,"Clearwater, FL",85.0
+3,Data Scientist,PNNL,"Richland, WA",76.5
+4,Data Scientist,Affinity Solutions,"New York, NY",114.5
+5,Data Scientist,CyrusOne,"Dallas, TX",95.0
+6,Data Scientist,ClearOne Advantage,"Baltimore, MD",73.5
+7,Data Scientist,Logic20/20,"San Jose, CA",114.0
+8,Research Scientist,Rochester Regional Health,"Rochester, NY",61.0
+9,Data Scientist,<intent>,"New York, NY",140.0
+10,Data Scientist,Others,"San Jose, CA",163.5
+11,Data Scientist,ManTech,"Chantilly, VA",85.0
+12,Staff Data Scientist - Technology,Walmart,"Plano, TX",139.0
+13,Data Analyst,Others,"Seattle, WA",65.5
+14,Data Scientist,Takeda Pharmaceuticals,"Cambridge, MA",113.5
+15,Data Engineer I,Others,Others,146.0
+16,"Scientist I/II, Biology",Others,"Cambridge, MA",102.0
+17,Customer Data Scientist,h2o.ai,"Mountain View, CA",153.5
+18,Data Scientist - Health Data Analytics,Nuna,"San Francisco, CA",142.5
+19,Data Scientist,Pinnacol Assurance,"Denver, CO",87.5
+20,Data Scientist,Others,"Seattle, WA",105.5
+21,Senior Data Scientist / Machine Learning,Health IQ,"Dallas, TX",96.0
+22,Data Scientist - Quantitative,Truckstop.com,"Chicago, IL",112.5
+23,Data Scientist,SMC 3,"Louisville, KY",84.0
+24,Data Scientist,Novetta,"Herndon, VA",143.0
+25,Digital Health Data Scientist,Pfizer,"Cambridge, MA",86.5
+26,Data Scientist,First Tech Federal Credit Union,"Hillsboro, OR",99.5
+27,Associate Data Analyst,The Hanover Insurance Group,"Worcester, MA",47.5
+28,Clinical Data Scientist,Pfizer,"Groton, CT",84.0
+29,Data Scientist,KnowBe4,"Clearwater, FL",85.0
+30,Data Scientist,PNNL,"Richland, WA",76.5
+31,Data Scientist,Amrock,"Detroit, MI",96.0
+32,Data Scientist / Machine Learning Expert,Novartis,"Cambridge, MA",114.5
+33,Data Scientist,Juniper Networks,"Sunnyvale, CA",121.0
+34,Data Scientist,New England Biolabs,"Ipswich, MA",112.5
+35,Web Data Analyst,Clarity Insights,"San Jose, CA",106.0
+36,Data Scientist,Esri,"Redlands, CA",107.0
+37,Data Scientist,Systems & Technology Research,Others,110.0
+38,Senior Data Scientist,Sartorius,"Fremont, CA",147.5
+39,Data Engineer,Others,Others,106.0
+40,Data Analyst,Others,"San Francisco, CA",88.0
+41,Data Engineer,Others,"Marlborough, MA",98.5
+42,Data Scientist - Algorithms & Inference,Nuna,"San Francisco, CA",142.5
+43,Scientist,Others,Others,82.5
+44,Senior Data Scientist,Equity Residential,"Chicago, IL",130.0
+46,Lead Data Scientist,Visa Inc.,"Bellevue, WA",184.5
+47,Associate Data Analyst,Others,Others,29.5
+48,Spectral Scientist/Engineer,Others,"Beavercreek, OH",86.5
+49,College Hire - Data Scientist - Open to December 2019 Graduates,Caterpillar,"Peoria, IL",81.0
+50,Data Scientist,Zimmerman Advertising,"Fort Lauderdale, FL",91.0
+51,"Data Scientist, Office of Data Science",Liberty Mutual Insurance,"Boston, MA",114.5
+52,Data Science Analyst,Others,"Huntsville, AL",68.0
+53,Data Scientist,Swiss Re,"Armonk, NY",115.0
+54,Data Scientist,Northrop Grumman,"San Diego, CA",109.5
+55,Data Scientist,Sartorius,"Albuquerque, NM",75.5
+56,Data Scientist,Netskope,"San Francisco, CA",154.5
+57,Data Scientist,1904labs,"Saint Louis, MO",143.5
+58,Data Scientist,ClearOne Advantage,"Baltimore, MD",73.5
+59,Data Scientist,CyrusOne,"Dallas, TX",95.0
+60,Senior Data Scientist,The David J. Joseph Company,"Cincinnati, OH",107.0
+61,Data Scientist,USEReady,"New York, NY",115.0
+62,Senior Risk Data Scientist,Bill.com,"Palo Alto, CA",139.5
+63,Data Scientist in Artificial Intelligence Early Career,Pacific Northwest National Laboratory,"Richland, WA",67.0
+64,Data Scientist,DICK'S Sporting Goods - Corporate,"Coraopolis, PA",85.0
+65,Data Scientist,Others,Others,118.0
+66,Data Scientist,Oversight Systems,"Atlanta, GA",79.5
+67,Data Scientist - Research,Others,"Boston, MA",56.5
+68,Data Scientist,"Numeric, LLC","Philadelphia, PA",128.5
+69,R&D Data Analysis Scientist,HP Inc.,"Vancouver, WA",97.5
+70,Analytics Consultant,SpringML,"Indianapolis, IN",66.5
+71,"Director, Data Science",Others,Others,179.5
+72,Scientist,Others,"Maryland Heights, MO",76.0
+73,Data Scientist SR,The Buffalo Group,"Charlottesville, VA",112.0
+74,Data Scientist,Others,"Pittsburgh, PA",98.0
+75,R&D Sr Data Scientist,HP Inc.,"Vancouver, WA",128.0
+76,Customer Data Scientist/Sales Engineer (Bay,h2o.ai,"Mountain View, CA",150.5
+77,Research Scientist,Others,"Cambridge, MA",87.5
+78,Data Scientist,Peraton,"Chantilly, VA",110.0
+79,Data Scientist,Others,"San Jose, CA",113.5
+80,Data Scientist,Others,"San Francisco, CA",124.0
+81,Jr. Business Data Analyst,Others,Others,56.5
+82,Data Scientist,Others,Others,130.0
+83,Data Analyst,Productive Edge,"Chicago, IL",77.5
+84,Data Engineer,Others,"Arlington, VA",87.0
+85,Data Analyst,Others,Others,53.5
+86,Staff Data Scientist - Technology,Walmart,"Plano, TX",139.0
+87,Data Scientist,Logic20/20,"San Jose, CA",114.0
+88,Data Scientist,Others,Others,85.5
+89,Data Management Specialist,Others,"Huntsville, AL",48.0
+90,E-Commerce Data Analyst,Others,"New Orleans, LA",48.0
+91,Sr. Scientist II,Others,"San Francisco, CA",174.0
+92,Insurance Data Scientist,TransUnion,"Atlanta, GA",85.0
+93,Data Modeler,Others,Others,106.5
+94,Data Analyst / Scientist,Others,Others,72.5
+95,Scientist,General Dynamics Information Technology,Others,85.5
+96,Data Scientist,MITRE,"McLean, VA",97.5
+97,Data Scientist,The Buffalo Group,"Fort Belvoir, VA",99.0
+98,Data Analyst,Others,"Milwaukee, WI",56.5
+99,Lead Data Scientist,Others,"Silver Spring, MD",133.0
+100,Data Scientist,Others,"New York, NY",121.0
+101,Data Scientist,Others,Others,85.5
+102,"Data Scientist, Rice University",Others,"Houston, TX",87.5
+103,Senior Data Scientist,Others,"Washington, DC",237.5
+104,Data Engineer,Others,"Charlotte, NC",95.5
+105,Senior Data Scientist,Others,Others,104.5
+106,Financial Data Analyst,Others,Others,56.5
+107,Senior Data Analyst,Others,"Phoenix, AZ",55.0
+108,Research Scientist,Others,"Omaha, NE",61.5
+109,Data Scientist,Demandbase,"San Francisco, CA",157.0
+110,Data Engineer,Others,Others,78.0
+111,Data Scientist,Takeda Pharmaceuticals,"Cambridge, MA",113.5
+112,Data Scientist,<intent>,"New York, NY",140.0
+113,Data Scientist,Others,"San Francisco, CA",132.5
+114,Data Engineer,Autodesk,"San Francisco, CA",108.0
+115,Ag Data Scientist,Others,Others,80.5
+116,Data Scientist,Others,"Rockville, MD",107.5
+117,Data Engineer,Others,"Minneapolis, MN",95.0
+118,Data Scientist II,Others,"Los Angeles, CA",119.5
+119,Senior Data Engineer,Others,"Charlotte, NC",134.0
+120,Data Scientist,Others,"Cambridge, MA",100.5
+121,Data Scientist,Others,"Cincinnati, OH",107.5
+122,Data Engineer,Others,"Washington, DC",122.0
+123,Data Engineer,Equity Residential,"Chicago, IL",92.5
+124,Data Analyst,Others,"Baltimore, MD",62.0
+126,Data Scientist,Others,Others,107.5
+127,Data Analytics Manager,Others,Others,40.5
+128,Senior Machine Learning (ML) Engineer / Data Scientist - Cyber Security Analytics,Visa Inc.,Others,89.5
+129,Data Scientist,Maven Wave Partners,"Chicago, IL",81.0
+130,Senior Data Scientist,Novetta,"Herndon, VA",147.0
+131,Data Scientist,Others,Others,85.0
+132,Associate Scientist,Others,Others,81.5
+133,"Scientist 2, QC Viral Vector",Others,Others,168.0
+134,Machine Learning Engineer,Others,Others,100.5
+135,Data Scientist/ML Engineer,PA Consulting,"New York, NY",97.0
+136,Data Scientist,ManTech,"Chantilly, VA",85.0
+137,Customer Data Scientist,h2o.ai,"Mountain View, CA",153.5
+138,Data Engineer,Others,"Tampa, FL",132.5
+139,Data Engineer,Productive Edge,"Chicago, IL",100.0
+140,Sr. Data Scientist,Others,"Denver, CO",105.0
+141,Data Engineer 4 - Contract,The Church of Jesus Christ of Latter-day Saints,"Riverton, UT",87.0
+142,Data Analyst - Asset Management,Others,"San Francisco, CA",103.5
+143,Senior Research Scientist - Embedded System Development for DevOps,Software Engineering Institute,"Pittsburgh, PA",124.0
+144,Data Scientist - Bioinformatics,PNNL,"Richland, WA",67.0
+145,Data Engineer,Others,"Washington, DC",87.0
+146,Customer Data Scientist/Sales Engineer,h2o.ai,"Chicago, IL",137.5
+147,Lead Data Scientist,Others,"Cincinnati, OH",100.0
+148,MongoDB Data Engineer II,Others,Others,106.5
+149,Senior Data Scientist Statistics,PNNL,"Richland, WA",98.5
+150,Senior Data Analyst,KnowBe4,"Clearwater, FL",61.0
+151,Senior Spark Engineer (Data Science),Others,"Indianapolis, IN",106.5
+152,Data Engineer,Cogo Labs,"Cambridge, MA",84.5
+153,BI & Platform Analytics Manager,Church & Dwight,"Ewing, NJ",109.5
+154,Lead Data Scientist,MassMutual,"Boston, MA",164.0
+155,"Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)",Genentech,"South San Francisco, CA",169.0
+156,Senior Data Scientist,Juniper Networks,"Cupertino, CA",142.0
+157,Pricipal Scientist Molecular and cellular biologist,Takeda Pharmaceuticals,"Boston, MA",76.5
+158,"Data Scientist (Actuary, FSA or ASA)",Legal & General America,"Frederick, MD",107.0
+159,Staff Data Scientist,Western Digital,"San Jose, CA",171.5
+160,Senior Data Scientist / Machine Learning,Health IQ,"Dallas, TX",96.0
+161,Data Scientist - Health Data Analytics,Nuna,"San Francisco, CA",142.5
+162,Data Engineer 5 - Contract (Remote),The Church of Jesus Christ of Latter-day Saints,"Riverton, UT",107.0
+163,Senior Scientist - Neuroscience,Sunovion,"Marlborough, MA",145.0
+164,Senior Data Analyst,National Student Clearinghouse,"Herndon, VA",61.5
+165,Medical Lab Scientist,Tower Health,"West Reading, PA",20.5
+166,"Risk and Analytics IT, Data Scientist",State of Wisconsin Investment Board,"Madison, WI",120.0
+167,"Scientist, Analytical Development",Rubius Therapeutics,"Cambridge, MA",62.0
+168,Senior Data Scientist,Autodesk,"San Francisco, CA",150.5
+169,Analytics Manager,OneMagnify,"Dearborn, MI",87.5
+170,Data Engineer,IZEA,"Winter Park, FL",71.5
+171,Digital Marketing & ECommerce Data Analyst,Vionic Group,"San Rafael, CA",51.5
+172,Sr. Scientist - Digital & Image Analysis/Computational Pathology,Takeda Pharmaceuticals,"San Diego, CA",151.5
+173,Senior Data Analyst,Dodge Data & Analytics,"Hamilton, NJ",77.5
+174,Principal Scientist - Immunologist,Takeda Pharmaceuticals,"Boston, MA",140.0
+175,Senior Data Scientist,Plymouth Rock Assurance,"Woodbridge, NJ",98.5
+176,Principal Data Scientist with over 10 years experience,CA-One Tech Cloud,"San Francisco, CA",225.0
+177,MED TECH/LAB SCIENTIST - LABORATORY,Beebe Healthcare,"Lewes, DE",27.5
+178,"Sr. Scientist, Quantitative Translational Sciences",Takeda Pharmaceuticals,"Boston, MA",161.5
+179,Sr. Data Scientist II,Argo Group US,"New York, NY",147.0
+180,Excel / VBA / SQL Data Analyst,Associated Electric Cooperative,"Springfield, MO",61.0
+181,Machine Learning Research Scientist,Software Engineering Institute,"Pittsburgh, PA",120.0
+182,"VP, Data Science",PennyMac,"Phoenix, AZ",124.5
+183,Senior Data Scientist,Zest AI,"Burbank, CA",148.0
+184,Radar Data Analyst,DECISIVE ANALYTICS Corporation,"Huntsville, AL",59.0
+185,PL Actuarial-Lead Data Scientist,The Hanover Insurance Group,"Worcester, MA",146.5
+186,PV Scientist,Karyopharm Therapeutics Inc.,"Newton, MA",91.5
+187,Senior Data & Machine Learning Scientist,Tempus Labs,"Chicago, IL",133.0
+188,Principal Data Scientist (Computational Chemistry),Recursion Pharmaceuticals,"Salt Lake City, UT",140.5
+189,Data Engineer,P2 Energy Solutions,"Lafayette, LA",70.5
+190,"Principal Scientist, Chemistry & Immunology",Rochester Regional Health,"Rochester, NY",84.5
+191,Software Engineer - Data Visualization,ClearEdge,"Annapolis Junction, MD",93.5
+192,"Scientist/Senior Scientist, Autoimmune",Rubius Therapeutics,"Cambridge, MA",134.5
+193,Staff Machine Learning Engineer,Tapjoy,"San Francisco, CA",181.0
+194,"Principal Scientist, Hematology",Rochester Regional Health,"Rochester, NY",84.5
+195,Lead Data Engineer,Credit Sesame,"Mountain View, CA",205.0
+196,Marketing Data Analyst,San Manuel Casino,"Highland, CA",48.5
+197,Medical Laboratory Scientist,Texas Health Huguley Hospital,"Burleson, TX",21.5
+198,R&D Specialist/ Food Scientist,Teasdale Latin Foods,"Hoopeston, IL",52.5
+199,Senior Research Scientist-Machine Learning,Software Engineering Institute,"Pittsburgh, PA",124.0
+200,Analytics Manager - Data Mart,Central California Alliance for Health,"Scotts Valley, CA",64.0
+201,Sr. Data Engineer - Contract-to-Hire (Java),Pilot Flying J Travel Centers LLC,"Knoxville, TN",98.0
+202,MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,Beebe Healthcare,"Millville, DE",27.5
+203,Food Scientist - Developer,Palermo's Pizza,"Milwaukee, WI",54.0
+204,Staff Scientist-Downstream Process Development,Advanced BioScience Laboratories,"Rockville, MD",81.0
+205,Sr. Data Engineer,Echo Global Logistics,"Chicago, IL",107.5
+206,Data Scientist - Quantitative,Truckstop.com,"Chicago, IL",112.5
+207,Data Scientist,Others,"Herndon, VA",89.0
+208,Senior Research Statistician- Data Scientist,Others,Others,100.5
+209,"Business Data Analyst, SQL",Fareportal,"New York, NY",65.0
+210,Medical Technologist / Clinical Laboratory Scientist,Others,"New Orleans, LA",20.0
+211,Data Scientist,Others,"Dallas, TX",72.5
+212,Senior Data Analyst,KnowBe4,"Clearwater, FL",61.0
+213,BI & Platform Analytics Manager,Church & Dwight,"Ewing, NJ",109.5
+214,Data Engineer,Cogo Labs,"Cambridge, MA",84.5
+215,Data Scientist,Others,"Chicago, IL",87.5
+216,Data Analyst,NCSOFT,Others,92.5
+217,Associate Data Scientist/Computer Scientist,MITRE,"McLean, VA",81.5
+218,Business Intelligence Analyst / Developer,Others,Others,79.0
+219,Lead Data Scientist,MassMutual,"Boston, MA",164.0
+220,"Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)",Genentech,"South San Francisco, CA",169.0
+221,Senior Data Scientist,Juniper Networks,"Cupertino, CA",142.0
+222,Data Analyst,Others,Others,47.5
+223,Pricipal Scientist Molecular and cellular biologist,Takeda Pharmaceuticals,"Boston, MA",76.5
+224,Data Analyst,Others,"San Francisco, CA",69.0
+225,Data Analyst,Others,Others,49.0
+226,Staff Data Scientist,Western Digital,"San Jose, CA",171.5
+227,"Data Scientist (Actuary, FSA or ASA)",Legal & General America,"Frederick, MD",107.0
+228,System and Data Analyst,Others,Others,59.0
+229,Data Scientist,Others,"Indianapolis, IN",88.5
+230,Data Engineer 5 - Contract (Remote),The Church of Jesus Christ of Latter-day Saints,"Riverton, UT",107.0
+231,Digital Health Data Scientist,Pfizer,"Cambridge, MA",86.5
+232,Data Scientist,SMC 3,"Louisville, KY",84.0
+233,Data & Analytics Consultant (NYC),Others,"New York, NY",114.5
+234,Senior Scientist - Neuroscience,Sunovion,"Marlborough, MA",145.0
+235,Data Engineer,Eventbrite,"Nashville, TN",88.0
+236,Big Data Engineer - Chicago - Future Opportunity,Others,"Chicago, IL",100.0
+237,Senior Data Analyst,National Student Clearinghouse,"Herndon, VA",61.5
+238,Data Scientist,Others,Others,96.5
+239,Survey Data Analyst,Others,"Minneapolis, MN",76.0
+240,Data Scientist,Others,Others,15.5
+241,Data Scientist,Others,"Austin, TX",83.5
+242,"Risk and Analytics IT, Data Scientist",State of Wisconsin Investment Board,"Madison, WI",120.0
+243,Data Scientist,Genentech,"South San Francisco, CA",163.0
+244,Lead Health Data Analyst - Front End,Others,Others,100.0
+245,Research Scientist,Others,"Omaha, NE",52.5
+246,Medical Lab Scientist,Tower Health,"West Reading, PA",20.5
+247,Junior Data Analyst,Others,"Washington, DC",50.0
+248,SQL Data Engineer,Others,"Austin, TX",93.0
+249,Data Scientist,Others,"Cincinnati, OH",94.5
+250,Senior Data Scientist,Autodesk,"San Francisco, CA",150.5
+251,Data Scientist,Others,Others,102.0
+252,"Scientist, Analytical Development",Rubius Therapeutics,"Cambridge, MA",62.0
+253,Analytics Manager,OneMagnify,"Dearborn, MI",87.5
+254,Clinical Data Scientist,Pfizer,"Groton, CT",84.0
+255,Data Scientist,Novetta,"Herndon, VA",143.0
+256,"Sr. Data Scientist, Cyber-Security LT Contract","Numeric, LLC","Phila, PA",155.0
+257,Data Engineer,IZEA,"Winter Park, FL",71.5
+258,Data Scientist,Others,Others,108.0
+259,Sr. Scientist - Digital & Image Analysis/Computational Pathology,Takeda Pharmaceuticals,"San Diego, CA",151.5
+260,Digital Marketing & ECommerce Data Analyst,Vionic Group,"San Rafael, CA",51.5
+261,Principal Scientist - Immunologist,Takeda Pharmaceuticals,"Boston, MA",140.0
+262,Senior Data Analyst,Dodge Data & Analytics,"Hamilton, NJ",77.5
+263,Insurance Financial Data Analyst,Others,Others,63.5
+264,Data Scientist,Others,"San Francisco, CA",109.0
+265,Data Scientist,Others,Others,96.0
+266,Principal Data Scientist with over 10 years experience,CA-One Tech Cloud,"San Francisco, CA",225.0
+267,Data Engineer,PennyMac,Others,101.0
+268,Senior Data Scientist,Plymouth Rock Assurance,"Woodbridge, NJ",98.5
+269,Data Engineer I - Azure,Others,Others,77.5
+270,"Sr. Scientist, Quantitative Translational Sciences",Takeda Pharmaceuticals,"Boston, MA",161.5
+271,MED TECH/LAB SCIENTIST - LABORATORY,Beebe Healthcare,"Lewes, DE",27.5
+272,Sr. Data Scientist II,Argo Group US,"New York, NY",147.0
+273,Data Scientist,Others,Others,90.0
+274,Information Security Data Analyst,Others,Others,58.0
+275,Excel / VBA / SQL Data Analyst,Associated Electric Cooperative,"Springfield, MO",61.0
+276,Machine Learning Research Scientist,Software Engineering Institute,"Pittsburgh, PA",120.0
+277,Data Scientist,Others,"New York, NY",128.0
+278,Data Scientist,First Tech Federal Credit Union,"Hillsboro, OR",99.5
+279,Data Scientist,Amrock,"Detroit, MI",96.0
+280,Data Scientist,Others,"Washington, DC",101.0
+281,Senior Data Scientist,Zest AI,"Burbank, CA",148.0
+282,"Data Scientist, Senior",Novetta,"Fort Belvoir, VA",142.0
+283,Senior Data Scientist,CK-12 Foundation,"Palo Alto, CA",169.0
+284,"VP, Data Science",PennyMac,"Phoenix, AZ",124.5
+285,Radar Data Analyst,DECISIVE ANALYTICS Corporation,"Huntsville, AL",59.0
+286,CONSULTANT– DATA ANALYTICS GROUP,Others,"San Diego, CA",52.5
+287,Data Engineer,Others,"Houston, TX",75.5
+288,Senior Data Scientist,Swiss Re,"Armonk, NY",139.0
+289,"Data Engineer, Data Engineering and Artifical Intelligence",Takeda Pharmaceuticals,"Cambridge, MA",102.5
+290,Staff Scientist,Others,Others,60.5
+291,PL Actuarial-Lead Data Scientist,The Hanover Insurance Group,"Worcester, MA",146.5
+292,"Associate Scientist/Scientist, Process Analytical Technology - Small Molecule Analytical Chemistry",Genentech,"South San Francisco, CA",125.0
+293,Sr. Data Analyst,MassMutual,"Springfield, MA",81.0
+294,Senior Data & Machine Learning Scientist,Tempus Labs,"Chicago, IL",133.0
+295,Program/Data Analyst,General Dynamics Information Technology,"Washington, DC",77.0
+296,Data Engineer,ManTech,"Herndon, VA",92.0
+297,Senior Data Scientist: Causal & Predictive analytics AI Innovation Lab,Novartis,"Cambridge, MA",121.0
+298,"Principal Data Engineer, Data Platform & Insights",Autodesk,"San Francisco, CA",162.5
+299,RESEARCH SCIENTIST - BIOLOGICAL SAFETY,Southwest Research Institute,"San Antonio, TX",60.0
+300,Data Operations Lead,Others,"San Francisco, CA",87.5
+301,Big Data Engineer,SpringML,"Indianapolis, IN",90.5
+302,Data Scientist / Machine Learning Expert,Novartis,"Cambridge, MA",114.5
+303,Data Scientist,Juniper Networks,"Sunnyvale, CA",121.0
+304,Senior Data Scientist,Others,"Dallas, TX",110.0
+305,PV Scientist,Karyopharm Therapeutics Inc.,"Newton, MA",91.5
+306,Clinical Data Analyst,ManTech,Others,70.5
+307,Data Engineer,P2 Energy Solutions,"Lafayette, LA",70.5
+308,Computational Chemist/Data Scientist,PNNL,"Richland, WA",76.5
+309,Data Engineer,MassMutual,"Springfield, MA",92.0
+310,Principal Data Scientist (Computational Chemistry),Recursion Pharmaceuticals,"Salt Lake City, UT",140.5
+311,Product Engineer – Data Science,Esri,"Arlington, VA",82.0
+312,"Principal Scientist, Chemistry & Immunology",Rochester Regional Health,"Rochester, NY",84.5
+313,"Scientist/Senior Scientist, Autoimmune",Rubius Therapeutics,"Cambridge, MA",134.5
+314,Data Scientist,Samba TV,"San Francisco, CA",164.5
+315,Market Data Analyst,SV Microwave,"West Palm Beach, FL",44.0
+316,Software Engineer - Data Visualization,ClearEdge,"Annapolis Junction, MD",93.5
+317,Data Engineer,SpringML,"Herndon, VA",109.0
+318,Staff Data Engineer,Sumo Logic,"Austin, TX",149.5
+319,Associate Data Engineer,EAB,"Washington, DC",65.5
+320,Senior Data Scientist,Brighthouse Financial,"Charlotte, NC",124.5
+321,Staff BI and Data Engineer,Affinity Solutions,"San Jose, CA",114.0
+322,Marketing Data Analyst,Citadel Federal Credit Union,"Exton, PA",49.0
+323,"Principal Scientist, Hematology",Rochester Regional Health,"Rochester, NY",84.5
+324,Data Analyst,CALIBRE Systems,"Alexandria, VA",71.0
+325,"Director - Data, Privacy and AI Governance",MassMutual,"Boston, MA",101.0
+326,Data Scientist,Esri,"Redlands, CA",107.0
+327,Data Scientist,New England Biolabs,"Ipswich, MA",112.5
+328,Staff Machine Learning Engineer,Tapjoy,"San Francisco, CA",181.0
+329,Information Security Data Analyst,Motorola Solutions,"Chicago, IL",61.0
+330,Lead Data Engineer,Credit Sesame,"Mountain View, CA",205.0
+331,Scientist Manufacturing - Kentucky BioProcessing,Reynolds American,"Owensboro, KY",103.5
+332,Data Analytics Project Manager,MassMutual,"Springfield, MA",63.0
+333,Consultant - Analytics Consulting,Infosys,"Hartford, CT",62.5
+334,Data Engineer,Alignment Healthcare,"Orange, CA",94.5
+335,Marketing Data Analyst,San Manuel Casino,"Highland, CA",48.5
+336,Senior Scientist (Neuroscience),Sunovion,"Marlborough, MA",154.5
+337,Medical Laboratory Scientist,Texas Health Huguley Hospital,"Burleson, TX",21.5
+338,Machine Learning Engineer - Regulatory,Cboe Global Markets,"Lenexa, KS",87.0
+339,R&D Specialist/ Food Scientist,Teasdale Latin Foods,"Hoopeston, IL",52.5
+340,Data Engineer,Guidepoint,"New York, NY",64.5
+341,"Scientist, Bacteriology",Cerus Corporation,"Concord, CA",111.5
+342,"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",Takeda Pharmaceuticals,"Cambridge, MA",154.5
+343,Senior Research Scientist-Machine Learning,Software Engineering Institute,"Pittsburgh, PA",124.0
+344,Senior Data Scientist,Maven Wave Partners,"Chicago, IL",128.5
+345,Clinical Laboratory Scientist,Vail Health,"Vail, CO",31.5
+346,Analytics Manager - Data Mart,Central California Alliance for Health,"Scotts Valley, CA",64.0
+347,Sr. Data Engineer - Contract-to-Hire (Java),Pilot Flying J Travel Centers LLC,"Knoxville, TN",98.0
+348,Data Scientist - Algorithms & Inference,Nuna,"San Francisco, CA",142.5
+349,Senior Data Scientist - R&D Oncology,AstraZeneca,"New York, NY",137.0
+350,Data Engineer,Pinnacol Assurance,"Denver, CO",99.0
+351,Food Scientist - Developer,Palermo's Pizza,"Milwaukee, WI",54.0
+352,Senior Data Scientist,MathWorks,"Natick, MA",139.5
+353,Data Engineer,MetroStar Systems,"Rockville, MD",109.0
+354,"Director II, Data Science - GRM Actuarial",Liberty Mutual Insurance,"Chicago, IL",254.0
+355,"Scientist, Molecular/Cellular Biologist",Audentes Therapeutics,"South San Francisco, CA",73.0
+356,Staff Scientist-Downstream Process Development,Advanced BioScience Laboratories,"Rockville, MD",81.0
+357,MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,Beebe Healthcare,"Millville, DE",27.5
+358,Scientist - Analytical Services,Reynolds American,"Winston-Salem, NC",99.5
+359,Associate Data Analyst- Graduate Development Program,National Interstate,"Richfield, OH",45.5
+360,Sr. Data Engineer,Moser Consulting,"Indianapolis, IN",122.5
+361,Senior Insurance Data Scientist,TransUnion,"Chicago, IL",140.0
+362,Senior Data Science Systems Engineer,MITRE,"Hampton, VA",77.5
+363,ENVIRONMENTAL ENGINEER/SCIENTIST,Mcphail Associates,"Cambridge, MA",26.5
+364,Senior Scientist - Regulatory Submissions,Reynolds American,"Winston-Salem, NC",117.5
+365,Scientist - Biomarker and Flow Cytometry,Crown Bioscience,"San Diego, CA",70.5
+366,Revenue Analytics Manager,HOVER,"San Francisco, CA",61.5
+367,"Associate Scientist, LC/MS Biologics",Q2 Solutions,"Ithaca, NY",70.0
+368,Sr. Scientist Method Development,Q2 Solutions,"Marietta, GA",80.0
+369,IT - Data Engineer II,Arbella Insurance,"Quincy, MA",90.0
+371,"Project Scientist - Auton Lab, Robotics Institute",Software Engineering Institute,"Pittsburgh, PA",73.5
+372,Data Scientist,Zimmerman Advertising,"Fort Lauderdale, FL",91.0
+374,"Enterprise Architect, Data",MassMutual,"Boston, MA",129.5
+375,"Senior Manager, Epidemiologic Data Scientist",Pfizer,"New York, NY",167.5
+376,Corporate Risk Data Analyst (SQL Based) - Milwaukee or,Associated Banc-Corp,"Green Bay, WI",60.0
+377,Lead Data Scientist,Zest AI,"Burbank, CA",180.0
+378,"Marketing Data Analyst, May 2020 Undergrad",Fareportal,"New York, NY",65.0
+379,Senior Data Engineer,Genesys,"Durham, NC",112.5
+380,Senior Data Analyst,Moda Operandi,"New York, NY",87.5
+381,Data Modeler - Data Solutions Engineer,Liberty Mutual Insurance,"Indianapolis, IN",51.5
+382,Associate Environmental Scientist - Wildlife Biologist,QK,"Clovis, CA",51.0
+383,"Associate, Data Science, Internal Audit",Santander,"Boston, MA",62.5
+384,Sr Data Engineer (Sr BI Developer),Tivity Health,"Chandler, AZ",100.0
+385,Data Engineer,BRMi,"Chantilly, VA",85.0
+386,Senior LiDAR Data Scientist,Luminar Technologies,"Orlando, FL",122.0
+387,Salesforce Analytics Consultant,"Emtec, Inc.","Chicago, IL",66.5
+388,"Technology-Minded, Data Professional Opportunities",Veterans United Home Loans,"Columbia, MO",70.5
+389,Senior Data Engineer,Praetorian,"Austin, TX",138.5
+390,Managing Data Scientist/ML Engineer,PA Consulting,"Boston, MA",107.5
+391,"Scientist, Pharmacometrics",Agios Pharmaceuticals,"Cambridge, MA",120.5
+392,Staff Scientist- Upstream PD,Advanced BioScience Laboratories,"Rockville, MD",81.0
+393,Scientist Manufacturing Pharma - Kentucky BioProcessing,Reynolds American,"Owensboro, KY",103.5
+394,Sr. Data Engineer,Echo Global Logistics,"Chicago, IL",107.5
+395,Lead Big Data Engineer,Glassdoor,"San Francisco, CA",162.0
+396,Product Engineer – Spatial Data Science and Statistical Analysis,Esri,"Redlands, CA",68.5
+397,Sr Software Engineer (Data Scientist),Assurant,"Westlake, OH",110.5
+398,College Hire - Data Scientist - Open to December 2019 Graduates,Caterpillar,"Peoria, IL",81.0
+399,Senior Data Scientist,Equity Residential,"Chicago, IL",130.0
+400,Sr. Data Engineer (ETL Developer),F&G,"Des Moines, IA",115.5
+401,Senior Data Scientist Artificial Intelligence,PNNL,"Richland, WA",80.5
+402,Analytics - Business Assurance Data Analyst,GreatAmerica Financial Services,"Cedar Rapids, IA",43.0
+403,"Associate Director/Director, Safety Scientist",Acceleron Pharma,"Cambridge, MA",140.0
+405,Data Analyst Senior,AmeriHealth Caritas,"Philadelphia, PA",66.5
+406,Lead Data Engineer (Python),Strategic Employment Partners,"San Francisco, CA",94.5
+407,Senior Data Scientist 4 Artificial Intelligence,PNNL,"Seattle, WA",119.0
+408,Medical Lab Scientist - MLT,Catholic Health Initiatives,"Omaha, NE",25.0
+409,"Senior Operations Data Analyst, Call Center Operations",FLEETCOR,"Nashville, TN",13.5
+410,"Director II, Data Science - GRS Predictive Analytics",Liberty Mutual Insurance,"Chicago, IL",194.5
+411,RESEARCH COMPUTER SCIENTIST - RESEARCH ENGINEER - SR. COMPUTER SCIENTIST - SOFTWARE DEVELOPMENT,Southwest Research Institute,"San Antonio, TX",71.5
+412,Geospatial Software Developer and Data Scientist,Applied Research Laboratories,"Austin, TX",105.5
+413,Senior Scientist - Toxicologist - Product Integrity (Stewardship),Reynolds American,"Winston-Salem, NC",74.0
+414,Systems Engineer II - Data Analyst,Raytheon,"Huntsville, AL",62.5
+415,Senior Research Analytical Scientist-Non-Targeted Analysis,RTI International,"Durham, NC",65.5
+416,Director Data Science,TRANZACT,"Fort Lee, NJ",161.5
+417,Sr Data Analyst - IT,United BioSource,"Blue Bell, PA",72.5
+418,Senior Data Engineer,Figure Eight,"San Francisco, CA",139.0
+419,Senior Data Engineer,Tapjoy,"San Francisco, CA",136.5
+420,Associate Machine Learning Engineer / Data Scientist May 2020 Undergrad,Fareportal,"New York, NY",74.5
+421,Senior Scientist - Biostatistician,Reynolds American,"Winston-Salem, NC",80.5
+422,Data Scientist,Sartorius,"Albuquerque, NM",75.5
+423,Data Scientist,1904labs,"Saint Louis, MO",143.5
+424,Data Scientist,Others,"Springfield, VA",101.0
+425,Data Engineer,MassMutual,"Springfield, MA",92.0
+426,Computational Chemist/Data Scientist,PNNL,"Richland, WA",76.5
+427,Principal Data Scientist (Computational Chemistry),Recursion Pharmaceuticals,"Salt Lake City, UT",140.5
+428,Data Scientist,Others,"Jersey City, NJ",116.5
+429,Principal Machine Learning Scientist,Others,"San Francisco, CA",232.5
+430,Data Scientist,Others,"San Francisco, CA",120.5
+431,Product Engineer – Data Science,Esri,"Arlington, VA",82.0
+432,"Principal Scientist, Chemistry & Immunology",Rochester Regional Health,"Rochester, NY",84.5
+433,Data Scientist,Others,Others,153.0
+434,Data Scientist,Others,"Palo Alto, CA",127.0
+435,Data Scientist,Others,Others,85.5
+436,Data Scientist,Others,Others,76.5
+437,Data Scientist,Others,"New York, NY",128.0
+438,Data Engineer,"Numeric, LLC",Others,91.5
+439,"Scientist/Senior Scientist, Autoimmune",Rubius Therapeutics,"Cambridge, MA",134.5
+440,Data Scientist,Samba TV,"San Francisco, CA",164.5
+441,Software Engineer - Data Visualization,ClearEdge,"Annapolis Junction, MD",93.5
+442,Market Data Analyst,SV Microwave,"West Palm Beach, FL",44.0
+443,Staff Data Engineer,Sumo Logic,"Austin, TX",149.5
+444,Associate Data Engineer,EAB,"Washington, DC",65.5
+445,Data Engineer,SpringML,"Herndon, VA",109.0
+446,Staff Data Engineer,Others,"Mountain View, CA",177.0
+447,Data Scientist,Systems & Technology Research,"Arlington, VA",107.0
+448,Data Scientist,Netskope,"Santa Clara, CA",154.5
+449,Data Scientist,Others,"Santa Clara, CA",113.5
+450,Senior Data Scientist,Brighthouse Financial,"Charlotte, NC",124.5
+451,Data Scientist,Others,Others,143.5
+452,Data Scientist,Others,"San Francisco, CA",113.5
+453,Data Scientist,Others,"Springfield, VA",101.5
+454,"Data Analyst, Performance Partnership",Others,"New York, NY",73.0
+455,Data Scientist,Others,"New York, NY",80.5
+457,Staff BI and Data Engineer,Affinity Solutions,"San Jose, CA",114.0
+458,Data Scientist,Others,Others,139.5
+459,Data Scientist,Others,"New York, NY",145.5
+460,Data Scientist,Others,"New York, NY",87.0
+461,Data Scientist,Others,Others,100.5
+462,Data Scientist Manager,Others,"New York, NY",147.0
+463,Data Engineer,Others,"New York, NY",110.5
+464,Marketing Data Analyst,Citadel Federal Credit Union,"Exton, PA",49.0
+465,Data Scientist,Others,Others,94.0
+466,Senior Data Scientist,Medidata Solutions,"New York, NY",123.5
+467,"Principal Scientist, Hematology",Rochester Regional Health,"Rochester, NY",84.5
+468,Data Analyst,CALIBRE Systems,"Alexandria, VA",71.0
+469,Software Data Engineer - College,HP Inc.,Others,73.0
+470,"Director - Data, Privacy and AI Governance",MassMutual,"Boston, MA",101.0
+471,Staff Machine Learning Engineer,Tapjoy,"San Francisco, CA",181.0
+472,Data Scientist,Northrop Grumman,"San Diego, CA",109.5
+473,Lead Data Scientist,Visa Inc.,"Bellevue, WA",184.5
+474,Senior Data Scientist - Algorithms,Others,"New York, NY",165.0
+475,Information Security Data Analyst,Motorola Solutions,"Chicago, IL",61.0
+476,Lead Data Engineer,Credit Sesame,"Mountain View, CA",205.0
+477,Data Analyst,Others,"New York, NY",59.5
+478,Scientist Manufacturing - Kentucky BioProcessing,Reynolds American,"Owensboro, KY",103.5
+479,Consultant - Analytics Consulting,Infosys,"Hartford, CT",62.5
+480,Data Analytics Project Manager,MassMutual,"Springfield, MA",63.0
+481,Data Analyst,AXION Healthcare Solutions,"New York, NY",66.0
+482,Data Engineer,Alignment Healthcare,"Orange, CA",94.5
+483,Data Scientist,ExecOnline,"New York, NY",75.5
+484,Machine Learning Engineer,Mteq,"Fort Belvoir, VA",87.0
+485,Senior Data Scientist Oncology,AstraZeneca,"Gaithersburg, MD",140.0
+486,Data Scientist,Brillient,"Silver Spring, MD",86.0
+487,Senior Data Scientist,Entefy,"Palo Alto, CA",116.5
+488,Senior Scientist (Neuroscience),Sunovion,"Marlborough, MA",154.5
+489,Machine Learning Engineer - Regulatory,Cboe Global Markets,"Lenexa, KS",87.0
+490,Marketing Data Analyst,San Manuel Casino,"Highland, CA",48.5
+491,Data Engineer,Trace3,"Houston, TX",80.0
+492,Medical Laboratory Scientist,Texas Health Huguley Hospital,"Burleson, TX",21.5
+493,R&D Specialist/ Food Scientist,Teasdale Latin Foods,"Hoopeston, IL",52.5
+494,Principal Data Scientist,Northrop Grumman,"San Jose, CA",173.0
+495,Data Engineer,Saama Technologies Inc,"Phoenix, AZ",68.5
+496,Data Scientist - Alpha Insights,Others,"New York, NY",172.0
+497,"Data Scientist, Office of Data Science",Liberty Mutual Insurance,"Boston, MA",114.5
+498,"Associate Principal Scientist, Pharmacogenomics",AstraZeneca,"Gaithersburg, MD",95.0
+499,Data Scientist - Systems Engineering,MITRE,"Bedford, MA",69.5
+500,Data Engineer,Guidepoint,"New York, NY",64.5
+501,"Scientist, Bacteriology",Cerus Corporation,"Concord, CA",111.5
+502,Data Scientist,Strategic Financial Solutions,"New York, NY",97.5
+503,"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",Takeda Pharmaceuticals,"Cambridge, MA",154.5
+504,Senior Research Scientist-Machine Learning,Software Engineering Institute,"Pittsburgh, PA",124.0
+505,Data Scientist,"Remedy BPCI Partners, LLC.","New York, NY",95.0
+506,Senior Data Scientist,Maven Wave Partners,"Chicago, IL",128.5
+507,Principal Data Scientist,The Climate Corporation,"San Francisco, CA",194.0
+508,Data Scientist,Crossix Solutions,"New York, NY",104.5
+509,Clinical Laboratory Scientist,Vail Health,"Vail, CO",31.5
+510,Data Engineer - Consultant (Charlotte Based),Clarity Insights,"Charlotte, NC",85.5
+511,"Data Analyst 1, full-time contract worker for up to 12 months",The Church of Jesus Christ of Latter-day Saints,"Salt Lake City, UT",50.0
+512,Data Engineer,NCSOFT,"Aliso Viejo, CA",113.0
+513,"Scientist, Immuno-Oncology",GSK,"Cambridge, MA",90.5
+514,Senior Data Scientist,Factual,"Los Angeles, CA",153.0
+515,Products Data Analyst II,TriNet,"Dublin, CA",123.5
+516,Lead Data Analyst,Signpost,"New York, NY",47.0
+517,Analytics Manager - Data Mart,Central California Alliance for Health,"Scotts Valley, CA",64.0
+518,Data Science Engineer - Mobile,Adobe,"San Jose, CA",162.0
+519,Senior Data Scientist - R&D Oncology,AstraZeneca,"New York, NY",137.0
+520,Sr. Data Engineer - Contract-to-Hire (Java),Pilot Flying J Travel Centers LLC,"Knoxville, TN",98.0
+521,Data Scientist,Swiss Re,"Armonk, NY",115.0
+522,Senior Data Scientist,Sartorius,Others,133.5
+523,Data Engineer,Pinnacol Assurance,"Denver, CO",99.0
+524,Food Scientist - Developer,Palermo's Pizza,"Milwaukee, WI",54.0
+525,Senior Data Engineer,Equian LLC,"Franklin, TN",109.0
+526,Data Engineer,MetroStar Systems,"Rockville, MD",109.0
+527,Senior Data Scientist,MathWorks,"Natick, MA",139.5
+528,"Director II, Data Science - GRM Actuarial",Liberty Mutual Insurance,"Chicago, IL",254.0
+529,Machine Learning Engineer,Information Builders,"New York, NY",125.0
+530,"Sr Expert Data Science, Advanced Visual Analytics (Associate level)",Novartis,"Cambridge, MA",106.5
+531,"Scientist, Molecular/Cellular Biologist",Audentes Therapeutics,"South San Francisco, CA",73.0
+532,Staff Scientist-Downstream Process Development,Advanced BioScience Laboratories,"Rockville, MD",81.0
+533,MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,Beebe Healthcare,"Millville, DE",27.5
+534,Scientist - Analytical Services,Reynolds American,"Winston-Salem, NC",99.5
+535,Associate Data Analyst- Graduate Development Program,National Interstate,"Richfield, OH",45.5
+536,IT Associate Data Analyst,The Hanover Insurance Group,"Worcester, MA",54.0
+537,Sr. Data Engineer,Moser Consulting,"Indianapolis, IN",122.5
+538,Clinical Data Analyst,Greenway Health,"Tampa, FL",37.5
+539,Business Data Analyst,Fareportal,"New York, NY",53.5
+540,Senior Insurance Data Scientist,TransUnion,"Chicago, IL",140.0
+541,Senior Data Science Systems Engineer,MITRE,"Hampton, VA",77.5
+542,ENVIRONMENTAL ENGINEER/SCIENTIST,Mcphail Associates,"Cambridge, MA",26.5
+543,Senior Scientist - Regulatory Submissions,Reynolds American,"Winston-Salem, NC",117.5
+544,Scientist - Biomarker and Flow Cytometry,Crown Bioscience,"San Diego, CA",70.5
+545,"Associate Scientist, LC/MS Biologics",Q2 Solutions,"Ithaca, NY",70.0
+546,Revenue Analytics Manager,HOVER,"San Francisco, CA",61.5
+547,Sr. Scientist Method Development,Q2 Solutions,"Marietta, GA",80.0
+548,Data Scientist,Oversight Systems,"Atlanta, GA",79.5
+549,Data Scientist - Sales,Others,"Mountain View, CA",168.0
+550,IT - Data Engineer II,Arbella Insurance,"Quincy, MA",90.0
+552,Senior Data Analyst,Life360,"San Francisco, CA",138.5
+553,"Principal, Data Science - Advanced Analytics",IQVIA,"Plymouth Meeting, PA",111.5
+554,Data Science Project Manager,MassMutual,"Boston, MA",68.5
+555,"Sr Scientist, Immuno-Oncology - Oncology",GSK,"Cambridge, MA",84.5
+556,Senior Data Engineer,Eventbrite,"Nashville, TN",102.5
+557,"Project Scientist - Auton Lab, Robotics Institute",Software Engineering Institute,"Pittsburgh, PA",73.5
+558,Research Scientist – Security and Privacy,Riverside Research Institute,"Beavercreek, OH",93.5
+559,Data Science Manager,"Numeric, LLC","Allentown, PA",127.5
+560,Data Analyst 2 (Missionary Department),The Church of Jesus Christ of Latter-day Saints,"Salt Lake City, UT",72.0
+561,"Enterprise Architect, Data",MassMutual,"Boston, MA",129.5
+562,Supply Chain Data Analyst,Others,Others,47.0
+563,Data Engineer - ETL,Others,Others,65.0
+564,Corporate Risk Data Analyst (SQL Based) - Milwaukee or,Associated Banc-Corp,"Green Bay, WI",60.0
+565,"Senior Manager, Epidemiologic Data Scientist",Pfizer,"New York, NY",167.5
+566,"Marketing Data Analyst, May 2020 Undergrad",Fareportal,"New York, NY",65.0
+567,Senior Data Analyst,Novetta,"Herndon, VA",94.0
+568,Senior Data Analyst,Moda Operandi,"New York, NY",87.5
+569,Senior Data Engineer,Novetta,Others,97.0
+570,Senior Data Engineer,Genesys,"Durham, NC",112.5
+571,Data Modeler (Analytical Systems),MassMutual,"Boston, MA",91.5
+572,Data Modeler - Data Solutions Engineer,Liberty Mutual Insurance,"Indianapolis, IN",51.5
+573,Data Scientist in Translational Medicine,Novartis,"Cambridge, MA",114.5
+574,Data Scientist,USEReady,"New York, NY",115.0
+575,Product Manager/Data Evangelist,"Numeric, LLC","Phila, PA",74.0
+576,Associate Environmental Scientist - Wildlife Biologist,QK,"Clovis, CA",51.0
+577,Sr Data Engineer (Sr BI Developer),Tivity Health,"Chandler, AZ",100.0
+578,"Senior Data Scientist – Visualization, Novartis AI Innovation Lab",Novartis,"Cambridge, MA",121.0
+579,Senior Data Analyst/Scientist,Demandbase,"San Francisco, CA",121.5
+580,"Associate, Data Science, Internal Audit",Santander,"Boston, MA",62.5
+582,Senior LiDAR Data Scientist,Luminar Technologies,"Orlando, FL",122.0
+583,Data Engineer,BRMi,"Chantilly, VA",85.0
+584,Data Engineer,Others,Others,60.5
+585,Lead Data Scientist,Zest AI,"Burbank, CA",180.0
+586,"Technology-Minded, Data Professional Opportunities",Veterans United Home Loans,"Columbia, MO",70.5
+587,Big Data Engineer,Peraton,"Chantilly, VA",118.5
+588,Salesforce Analytics Consultant,"Emtec, Inc.","Chicago, IL",66.5
+589,Managing Data Scientist/ML Engineer,PA Consulting,"Boston, MA",107.5
+590,Senior Data Engineer,Praetorian,"Austin, TX",138.5
+591,Staff Scientist- Upstream PD,Advanced BioScience Laboratories,"Rockville, MD",81.0
+592,Data Engineering Analyst,Others,Others,58.5
+593,Sr. Data Engineer,Echo Global Logistics,"Chicago, IL",107.5
+594,"Scientist, Pharmacometrics",Agios Pharmaceuticals,"Cambridge, MA",120.5
+595,Manager of Data Science,Tapjoy,"San Francisco, CA",63.5
+596,Scientist Manufacturing Pharma - Kentucky BioProcessing,Reynolds American,"Owensboro, KY",103.5
+597,Software Engineer (Data Scientist/Software Engineer) - SISW - MG,Others,"Fremont, CA",107.0
+598,Data Engineer,Others,"Springfield, VA",105.5
+599,Data Engineer,Others,"San Diego, CA",83.0
+600,Lead Big Data Engineer,Glassdoor,"San Francisco, CA",162.0
+601,Product Engineer – Spatial Data Science and Statistical Analysis,Esri,"Redlands, CA",68.5
+602,Sr Software Engineer (Data Scientist),Assurant,"Westlake, OH",110.5
+603,Sr. Data Engineer (ETL Developer),F&G,"Des Moines, IA",115.5
+604,Associate Research Scientist I (Protein Expression and Production),Exelixis,"Alameda, CA",87.5
+605,Senior Data Scientist Artificial Intelligence,PNNL,"Richland, WA",80.5
+606,Analytics - Business Assurance Data Analyst,GreatAmerica Financial Services,"Cedar Rapids, IA",43.0
+607,"Associate Director/Director, Safety Scientist",Acceleron Pharma,"Cambridge, MA",140.0
+608,"Director, Precision Medicine Clinical Biomarker Scientist",Pfizer,"Cambridge, MA",172.0
+610,Data Analyst Senior,AmeriHealth Caritas,"Philadelphia, PA",66.5
+611,Senior Formulations Scientist II,Exelixis,"Alameda, CA",100.0
+612,Lead Data Engineer (Python),Strategic Employment Partners,"San Francisco, CA",94.5
+613,Data Science Manager,Others,"San Francisco, CA",221.5
+614,Senior Data Scientist 4 Artificial Intelligence,PNNL,"Seattle, WA",119.0
+615,Data Engineer,Others,"Chicago, IL",95.5
+616,"Director II, Data Science - GRS Predictive Analytics",Liberty Mutual Insurance,"Chicago, IL",194.5
+617,Medical Lab Scientist - MLT,Catholic Health Initiatives,"Omaha, NE",25.0
+618,"Senior Operations Data Analyst, Call Center Operations",FLEETCOR,"Nashville, TN",13.5
+619,Senior Quantitative Analyst,Others,"Jersey City, NJ",173.0
+620,Geospatial Software Developer and Data Scientist,Applied Research Laboratories,"Austin, TX",105.5
+621,RESEARCH COMPUTER SCIENTIST - RESEARCH ENGINEER - SR. COMPUTER SCIENTIST - SOFTWARE DEVELOPMENT,Southwest Research Institute,"San Antonio, TX",71.5
+622,Senior Scientist - Toxicologist - Product Integrity (Stewardship),Reynolds American,"Winston-Salem, NC",74.0
+623,Systems Engineer II - Data Analyst,Raytheon,"Huntsville, AL",62.5
+624,Senior Research Analytical Scientist-Non-Targeted Analysis,RTI International,"Durham, NC",65.5
+625,Data Scientist,DICK'S Sporting Goods - Corporate,"Coraopolis, PA",85.0
+626,Principal Data Scientist,AstraZeneca,"Gaithersburg, MD",147.5
+627,Director Data Science,TRANZACT,"Fort Lee, NJ",161.5
+628,Data Engineer,Others,Others,81.0
+629,Sr Data Analyst - IT,United BioSource,"Blue Bell, PA",72.5
+630,Senior Data Engineer,Figure Eight,"San Francisco, CA",139.0
+631,Senior Data Engineer,Tapjoy,"San Francisco, CA",136.5
+632,Sr. Data Analyst,Others,"New York, NY",83.0
+633,Research Scientist or Senior Research Scientist - Computer Vision,Mitsubishi Electric Research Labs,"Cambridge, MA",121.0
+634,Associate Machine Learning Engineer / Data Scientist May 2020 Undergrad,Fareportal,"New York, NY",74.5
+635,Data Analyst Chemist - Quality System Contractor,Others,"San Francisco, CA",85.5
+636,Senior Scientist - Biostatistician,Reynolds American,"Winston-Salem, NC",80.5
+637,Research Scientist / Principal Research Scientist - Multiphysical Systems,Mitsubishi Electric Research Labs,"Cambridge, MA",167.5
+638,"Research Scientist, Machine Learning Department",Software Engineering Institute,"Pittsburgh, PA",107.5
+639,Foundational Community Supports Data Analyst,Others,"Seattle, WA",44.5
+640,"Senior Health Data Analyst, Star Ratings",Others,Others,107.5
+642,Sr. Data Analyst,Others,"Philadelphia, PA",69.5
+643,"Senior Engineer, Data Management Engineering",Western Digital,Others,98.5
+644,Quality Control Scientist III- Analytical Development,Advanced BioScience Laboratories,"Rockville, MD",80.5
+645,"Clinical Scientist, Clinical Development",Others,Others,37.0
+646,Software Engineer Staff Scientist: Human Language Technologies,Raytheon,Others,99.0
+647,"Manager, Safety Scientist, Medical Safety & Risk Management",Agios Pharmaceuticals,"Cambridge, MA",96.5
+648,"Assistant Director/Director, Office of Data Science",Liberty Mutual Insurance,"Boston, MA",53.0
+649,Sr. Data Engineer | Big Data SaaS Pipeline,Others,"Los Angeles, CA",103.0
+650,Senior Risk Data Scientist,Bill.com,"Palo Alto, CA",139.5
+651,Data Scientist in Artificial Intelligence Early Career,Pacific Northwest National Laboratory,"Richland, WA",67.0
+652,Consultant - Analytics Consulting,Infosys,"Hartford, CT",62.5
+653,Scientist - CVRM Metabolism - in vivo pharmacology,AstraZeneca,"Gaithersburg, MD",92.0
+654,Data Analyst,AXION Healthcare Solutions,"New York, NY",66.0
+655,Data Engineer,Alignment Healthcare,"Orange, CA",94.5
+656,Data Scientist,TRANZACT,"Fort Lee, NJ",114.0
+657,Data Scientist,ExecOnline,"New York, NY",75.5
+658,Data Scientist,Others,"Maryland Heights, MO",96.0
+659,Machine Learning Engineer,Mteq,"Fort Belvoir, VA",87.0
+660,Data Scientist,Brillient,"Silver Spring, MD",86.0
+661,Senior Data Scientist,Entefy,"Palo Alto, CA",116.5
+662,Senior Scientist (Neuroscience),Sunovion,"Marlborough, MA",154.5
+663,Marketing Data Analyst,San Manuel Casino,"Highland, CA",48.5
+664,Machine Learning Engineer - Regulatory,Cboe Global Markets,"Lenexa, KS",87.0
+665,Data Engineer,Trace3,"Houston, TX",80.0
+666,Medical Laboratory Scientist,Texas Health Huguley Hospital,"Burleson, TX",21.5
+667,Principal Data Scientist,Northrop Grumman,"San Jose, CA",173.0
+668,R&D Specialist/ Food Scientist,Teasdale Latin Foods,"Hoopeston, IL",52.5
+669,Data Engineer,Saama Technologies Inc,"Phoenix, AZ",68.5
+670,"Associate Principal Scientist, Pharmacogenomics",AstraZeneca,"Gaithersburg, MD",95.0
+671,Data Scientist - Systems Engineering,MITRE,"Bedford, MA",69.5
+672,Senior Data Scientist,The David J. Joseph Company,"Cincinnati, OH",107.0
+673,Data Scientist SR,The Buffalo Group,"Charlottesville, VA",112.0
+674,Data Scientist,Others,"Washington, DC",96.5
+675,"Scientist, Bacteriology",Cerus Corporation,"Concord, CA",111.5
+676,"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",Takeda Pharmaceuticals,"Cambridge, MA",154.5
+677,Data Scientist,"Remedy BPCI Partners, LLC.","New York, NY",95.0
+678,Data Scientist,Strategic Financial Solutions,"New York, NY",97.5
+679,Senior Data Scientist,Maven Wave Partners,"Chicago, IL",128.5
+680,Senior Research Scientist-Machine Learning,Software Engineering Institute,"Pittsburgh, PA",124.0
+681,Principal Data Scientist,The Climate Corporation,"San Francisco, CA",194.0
+682,Clinical Laboratory Scientist,Vail Health,"Vail, CO",31.5
+683,"Data Analyst 1, full-time contract worker for up to 12 months",The Church of Jesus Christ of Latter-day Saints,"Salt Lake City, UT",50.0
+684,Data Scientist,Crossix Solutions,"New York, NY",104.5
+685,Data Scientist,Others,"Phoenix, AZ",69.5
+686,Data Scientist,Others,Others,121.0
+687,Data Engineer - Consultant (Charlotte Based),Clarity Insights,"Charlotte, NC",85.5
+688,Data Engineer,NCSOFT,"Aliso Viejo, CA",113.0
+689,Data Scientist (Warehouse Automation),Others,"San Francisco, CA",103.0
+690,"Scientist, Immuno-Oncology",GSK,"Cambridge, MA",90.5
+691,Senior Data Scientist,Factual,"Los Angeles, CA",153.0
+692,Jr. Data Scientist,MITRE,"McLean, VA",106.5
+693,Senior Data Scientist,Others,Others,130.0
+694,Products Data Analyst II,TriNet,"Dublin, CA",123.5
+695,Data Architect / Data Modeler,Medidata Solutions,"New York, NY",86.5
+696,Analytics Manager - Data Mart,Central California Alliance for Health,"Scotts Valley, CA",64.0
+697,Lead Data Analyst,Signpost,"New York, NY",47.0
+698,Data Science Engineer - Mobile,Adobe,"San Jose, CA",162.0
+699,Senior Data Scientist Oncology,AstraZeneca,"Gaithersburg, MD",140.0
+700,Data Scientist,Others,Others,89.0
+701,Sr. Data Engineer - Contract-to-Hire (Java),Pilot Flying J Travel Centers LLC,"Knoxville, TN",98.0
+702,Senior Data Scientist - R&D Oncology,AstraZeneca,"New York, NY",137.0
+703,Data Engineer,Pinnacol Assurance,"Denver, CO",99.0
+704,Food Scientist - Developer,Palermo's Pizza,"Milwaukee, WI",54.0
+705,Senior Data Engineer,Equian LLC,"Franklin, TN",109.0
+706,Data Engineer,MetroStar Systems,"Rockville, MD",109.0
+707,Senior Data Scientist,MathWorks,"Natick, MA",139.5
+708,"Director II, Data Science - GRM Actuarial",Liberty Mutual Insurance,"Chicago, IL",254.0
+709,Machine Learning Engineer,Information Builders,"New York, NY",125.0
+710,"Sr Expert Data Science, Advanced Visual Analytics (Associate level)",Novartis,"Cambridge, MA",106.5
+711,MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,Beebe Healthcare,"Millville, DE",27.5
+712,"Scientist, Molecular/Cellular Biologist",Audentes Therapeutics,"South San Francisco, CA",73.0
+713,Staff Scientist-Downstream Process Development,Advanced BioScience Laboratories,"Rockville, MD",81.0
+714,Data Scientist,"Numeric, LLC","Philadelphia, PA",128.5
+715,Scientist - Analytical Services,Reynolds American,"Winston-Salem, NC",99.5
+716,"Associate Scientist / Sr. Associate Scientist, Antibody Discovery",Others,"South San Francisco, CA",92.0
+717,Associate Data Analyst- Graduate Development Program,National Interstate,"Richfield, OH",45.5
+718,Sr. Data Engineer,Moser Consulting,"Indianapolis, IN",122.5
+719,Clinical Data Analyst,Greenway Health,"Tampa, FL",37.5
+720,IT Associate Data Analyst,The Hanover Insurance Group,"Worcester, MA",54.0
+721,Business Data Analyst,Fareportal,"New York, NY",53.5
+722,Senior Insurance Data Scientist,TransUnion,"Chicago, IL",140.0
+723,Senior Data Science Systems Engineer,MITRE,"Hampton, VA",77.5
+724,ENVIRONMENTAL ENGINEER/SCIENTIST,Mcphail Associates,"Cambridge, MA",26.5
+725,Senior Scientist - Regulatory Submissions,Reynolds American,"Winston-Salem, NC",117.5
+726,Scientist - Biomarker and Flow Cytometry,Crown Bioscience,"San Diego, CA",70.5
+727,Revenue Analytics Manager,HOVER,"San Francisco, CA",61.5
+728,Sr. Scientist Method Development,Q2 Solutions,"Marietta, GA",80.0
+729,"Associate Scientist, LC/MS Biologics",Q2 Solutions,"Ithaca, NY",70.0
+731,IT - Data Engineer II,Arbella Insurance,"Quincy, MA",90.0
+732,Machine Learning Engineer (NLP),CK-12 Foundation,"Palo Alto, CA",111.0
+733,Senior Data Analyst,Life360,"San Francisco, CA",138.5
+734,Data Science Project Manager,MassMutual,"Boston, MA",68.5
+735,Data Engineer,Others,"San Francisco, CA",87.5
+736,"Principal, Data Science - Advanced Analytics",IQVIA,"Plymouth Meeting, PA",111.5
+737,"Sr Scientist, Immuno-Oncology - Oncology",GSK,"Cambridge, MA",84.5
+738,Senior Data Engineer,Eventbrite,"Nashville, TN",102.5
+739,"Project Scientist - Auton Lab, Robotics Institute",Software Engineering Institute,"Pittsburgh, PA",73.5
+740,Data Science Manager,"Numeric, LLC","Allentown, PA",127.5
+741,Research Scientist – Security and Privacy,Riverside Research Institute,"Beavercreek, OH",93.5
